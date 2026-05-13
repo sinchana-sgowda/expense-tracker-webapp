@@ -23,4 +23,4 @@ A simple expense tracker application built using HTML, CSS, and JavaScript.
 - Add dark mode
 
 ## Author
-Sinchu
+Sinchana
